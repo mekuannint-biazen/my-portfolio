@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Yeabsira Mesfin 👋
+  Hi, I'm Mekuannint Biazen 👋
 </h1>
 
 <h3 align="center">
@@ -7,140 +7,106 @@
 </h3>
 
 <p align="center">
-  I build reliable web applications, solve real-world problems, and explore secure-by-design software systems.
+  I build modern web applications, solve technical problems, and explore secure software development.
 </p>
 
 <p align="center">
-  <a href="https://yeabsira-mesfin.vercel.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/yeabsira-mesfin-76379928a">LinkedIn</a> •
-  <a href="mailto:yeabsira.mesfin29@gmail.com">Email</a>
+  <a href="https://your-portfolio-link.com">Portfolio</a> •
+  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="mailto:your-email@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Yeabsira Mesfin**, a software engineer and M.S. Cybersecurity student at **The George Washington University**.
+I'm **Mekuannint Biazen**, a software developer focused on building reliable, user-friendly applications and improving my skills across software engineering and cybersecurity.
 
-I enjoy building modern web applications, improving user experiences, debugging complex problems, and learning how secure systems are designed.
+I enjoy creating responsive websites, developing full-stack applications, solving problems through technology, and continuously learning new tools and concepts.
 
-My experience includes working on real client projects where I developed responsive interfaces, backend services, and reliable solutions while collaborating with teams and users.
-
-Currently, I'm focused on:
+Currently focused on:
 
 - 🚀 Full-stack web development
-- 🔐 Secure software development
-- ☁️ Cloud and deployment fundamentals
-- 🧩 Problem solving and system design
+- 🔐 Cybersecurity fundamentals
+- 🌐 Modern frontend technologies
+- 🛠 Building practical real-world projects
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Frontend
+### Frontend
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+HTML • CSS • JavaScript • React • Tailwind CSS • TypeScript
 
+### Backend
 
-## Backend & Database
+Node.js • Express • Python • MySQL • MongoDB
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+### Tools & Platforms
 
+Git • GitHub • Linux • Vercel • REST APIs
 
-## Cybersecurity & Tools
+### Cybersecurity
 
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-</p>
+Secure coding practices • Authentication concepts • OWASP awareness • Network fundamentals
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🚦 Traffic Management Agency Website
 
-A responsive web platform built with HTML, CSS, and JavaScript.
+A responsive traffic management platform built with HTML, CSS, and JavaScript.
 
 **Features:**
-- Vehicle placement management
-- User interface design
-- Responsive layouts
-- Interactive functionality
-
-
-### 💼 Personal Portfolio
-
-A modern developer portfolio built with React and Tailwind CSS.
-
-**Highlights:**
 - Responsive design
-- Project showcase
-- Skills presentation
-- Contact integration
+- Traffic service pages
+- Interactive user interface
+- Organized website structure
 
 
-### 🎯 TechBoard
+### 💻 Personal Portfolio
 
-A full-stack job board platform built with Django, PostgreSQL, and Tailwind CSS.
+A modern portfolio website showcasing my projects, skills, and experience.
+
+**Built with:**
+- React
+- Tailwind CSS
+- JavaScript
+
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeabsira-mesfin&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabsira-mesfin&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Advanced cybersecurity concepts
-- Cloud infrastructure
-- Secure application architecture
-- Scalable backend systems
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/yeabsira-mesfin-76379928a">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://yeabsira-mesfin.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=mekuannint-biazen&show_icons=true&theme=tokyonight"/>
 
 </p>
 
 ---
 
+## 🌱 Currently Learning
+
+- Advanced web development
+- Cybersecurity practices
+- Cloud technologies
+- Better software architecture
+
+---
+
+## 📫 Connect With Me
+
+Portfolio: your-link-here
+
+LinkedIn: your-link-here
+
+Email: your-email-here
+
+---
+
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 </p>
