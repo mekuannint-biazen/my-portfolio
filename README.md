@@ -33,23 +33,21 @@ Currently focused on:
 
 ---
 
-Skills
+## 🛠 Skills
 
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts" />
-</p>
+### 💻 Software Development
+• HTML, CSS, JavaScript  
+• React, TypeScript, Tailwind CSS  
+• Node.js, Express  
+• Python  
+• MySQL, MongoDB  
 
-### ⚙️ Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb" />
-</p>
-
-### ☁️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,postman,vscode" />
-</p>
-
+### ☁️ Cloud & Tooling Foundations
+• Git, GitHub  
+• Linux CLI  
+• API Testing and Debugging  
+• Vercel Deployments  
+• Troubleshooting and Root-Cause Thinking
 ## 🚀 Featured Projects
 
 ### 🚦 Traffic Management Agency Website
