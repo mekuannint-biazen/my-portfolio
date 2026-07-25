@@ -33,25 +33,22 @@ Currently focused on:
 
 ---
 
-## 🛠 Tech Stack
+Skills
 
-### Frontend
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts" />
+</p>
 
-HTML • CSS • JavaScript • React • Tailwind CSS • TypeScript
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb" />
+</p>
 
-### Backend
-
-Node.js • Express • Python • MySQL • MongoDB
-
-### Tools & Platforms
-
-Git • GitHub • Linux • Vercel • REST APIs
-
-### Cybersecurity
-
-Secure coding practices • Authentication concepts • OWASP awareness • Network fundamentals
-
----
+### ☁️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,postman,vscode" />
+</p>
 
 ## 🚀 Featured Projects
 
