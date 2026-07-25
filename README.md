@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer | Web Developer | Cybersecurity Student
+  Software Engineer | Web Developer | 
 </h3>
 
 <p align="center">
