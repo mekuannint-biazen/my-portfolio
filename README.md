@@ -1,16 +1,107 @@
-# React + Vite
+<h1 align="center">
+  Hi, I'm Mekuannint Biazen 👋
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="center">
+  Software Engineer | Web Developer | 
+</h3>
 
-Currently, two official plugins are available:
+<p align="center">
+  I build modern web applications, solve technical problems, and explore secure software development.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <a href="https://your-portfolio-link.com">Portfolio</a> •
+  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="mailto:your-email@gmail.com">Email</a>
+</p>
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About Me
 
-## Expanding the ESLint configuration
+I'm **Mekuannint Biazen**, a software developer focused on building reliable, user-friendly applications and improving my skills across software engineering and cybersecurity.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I enjoy creating responsive websites, developing full-stack applications, solving problems through technology, and continuously learning new tools and concepts.
+
+Currently focused on:
+
+- 🚀 Full-stack web development
+- 🔐 Cybersecurity fundamentals
+- 🌐 Modern frontend technologies
+- 🛠 Building practical real-world projects
+
+---
+
+## 🛠 Skills
+
+### 💻 Software Development
+• HTML, CSS, JavaScript  
+• React, TypeScript, Tailwind CSS  
+• Node.js, Express  
+• Python  
+• MySQL, MongoDB  
+
+### ☁️ Cloud & Tooling Foundations
+• Git, GitHub  
+• Linux CLI  
+• API Testing and Debugging  
+• Vercel Deployments  
+• Troubleshooting and Root-Cause Thinking
+## 🚀 Featured Projects
+
+### 🚦 Traffic Management Agency Website
+
+A responsive traffic management platform built with HTML, CSS, and JavaScript.
+
+**Features:**
+- Responsive design
+- Traffic service pages
+- Interactive user interface
+- Organized website structure
+
+
+### 💻 Personal Portfolio
+
+A modern portfolio website showcasing my projects, skills, and experience.
+
+**Built with:**
+- React
+- Tailwind CSS
+- JavaScript
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mekuannint-biazen&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced web development
+- Cybersecurity practices
+- Cloud technologies
+- Better software architecture
+
+---
+
+## 📫 Connect With Me
+
+Portfolio: your-link-here
+
+LinkedIn: your-link-here
+
+Email: your-email-here
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
