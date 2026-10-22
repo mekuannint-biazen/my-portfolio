@@ -1,0 +1,239 @@
+@import "tailwindcss";
+
+@theme {
+  /* =========================
+     COLOR PALETTE
+  ========================= */
+
+  /* Background */
+  --color-background: #1A566E;
+
+  /* Main Text */
+  --color-foreground: #F8FAFC;
+
+  /* Cards */
+  --color-card: #23647E;
+  --color-surface: #2B6F8A;
+
+  /* Primary Accent */
+  --color-primary: #8ED1FC;
+  --color-primary-foreground: #FFFFFF;
+
+  /* Secondary */
+  --color-secondary: #2E7591;
+  --color-secondary-foreground: #D8F3FF;
+
+  /* Muted */
+  --color-muted: #2A6680;
+  --color-muted-foreground: #C8D8E3;
+
+  /* Border */
+  --color-border: #4C88A2;
+
+  /* Highlight */
+  --color-highlight: #7DD3FC;
+
+  /* Radius */
+  --radius: 0.75rem;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: "Inter", sans-serif;
+  }
+
+  button {
+    cursor: pointer;
+  }
+
+  .font-serif {
+    font-family: "Playfair Display", serif;
+  }
+}
+
+@layer components {
+
+  /* =========================
+     GLASS EFFECT
+  ========================= */
+
+  .glass {
+    background: rgba(255,255,255,.08);
+    backdrop-filter: blur(18px);
+    border: 1px solid rgba(255,255,255,.12);
+  }
+
+  .glass-strong {
+    background: rgba(255,255,255,.12);
+    backdrop-filter: blur(24px);
+    border: 1px solid rgba(255,255,255,.18);
+  }
+
+  /* =========================
+     GLOW EFFECTS
+  ========================= */
+
+  .glow-text {
+    text-shadow: 0 0 25px rgba(142,209,252,.55);
+  }
+
+  .glow-border {
+    box-shadow:
+      0 0 20px rgba(142,209,252,.25),
+      inset 0 0 20px rgba(142,209,252,.08);
+  }
+
+  .timeline-glow {
+    box-shadow:
+      0 0 30px rgba(142,209,252,.30),
+      0 0 60px rgba(142,209,252,.18);
+  }
+}
+
+@layer utilities {
+
+  /* =========================
+     FADE IN
+  ========================= */
+
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+      filter: blur(10px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+      filter: blur(0);
+    }
+  }
+
+  .animate-fade-in {
+    animation: fade-in .8s ease-out both;
+  }
+
+  /* =========================
+     FLOAT
+  ========================= */
+
+  @keyframes float {
+    0%,100% {
+      transform: translateY(0);
+    }
+
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  .animate-float {
+    animation: float 4s ease-in-out infinite;
+  }
+
+  /* =========================
+     SLOW DRIFT
+  ========================= */
+
+  @keyframes slow-drift {
+    0%,100% {
+      transform: translate(0,0);
+    }
+
+    25% {
+      transform: translate(20px,-30px);
+    }
+
+    50% {
+      transform: translate(-15px,-20px);
+    }
+
+    75% {
+      transform: translate(30px,10px);
+    }
+  }
+
+  /* =========================
+     MARQUEE
+  ========================= */
+
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+  .animate-marquee {
+    animation: marquee 28s linear infinite;
+  }
+
+  /* =========================
+     BUTTON BORDER
+  ========================= */
+
+  @keyframes animated-border {
+    from {
+      stroke-dashoffset: 400;
+    }
+
+    to {
+      stroke-dashoffset: -550;
+    }
+  }
+
+  .group:hover .animated-border-path {
+    animation: animated-border 1.5s linear infinite;
+  }
+
+  .animated-border:hover {
+    background: rgba(142,209,252,.12);
+    backdrop-filter: blur(16px);
+
+    box-shadow:
+      0 0 18px rgba(142,209,252,.28);
+  }
+
+  /* =========================
+     DELAYS
+  ========================= */
+
+  .animation-delay-100 {
+    animation-delay: .1s;
+  }
+
+  .animation-delay-200 {
+    animation-delay: .2s;
+  }
+
+  .animation-delay-300 {
+    animation-delay: .3s;
+  }
+
+  .animation-delay-400 {
+    animation-delay: .4s;
+  }
+
+  .animation-delay-500 {
+    animation-delay: .5s;
+  }
+
+  .animation-delay-600 {
+    animation-delay: .6s;
+  }
+
+  .animation-delay-800 {
+    animation-delay: .8s;
+  }
+
+}
